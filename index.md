@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /chiarcos/
+permalink: /
 
 title: "Familienwebseite"
 excerpt: "Familie Chiarcos"
