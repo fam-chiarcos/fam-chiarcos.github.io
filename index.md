@@ -8,7 +8,6 @@ action: true
 #action_btn:
 
 ---
-
 <script>
   function 1() {
     alert("Dies ist die sogenante Chiarcos Webseite")
