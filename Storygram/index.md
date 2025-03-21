@@ -20,10 +20,12 @@ action: true
 # [Über Unsere Organisation](https://github.com/fam-chiarcos/.github/blob/main/profile/README.md)
 ## Dies ist ein Link auf [github.com](https://github.com)
 !!!\
-Kann keine Informationen vom https://github.com/fam-chiarcos/.github/blob/main/profile/README.md ablesen!\
+Kann keine Informationen von https://github.com/fam-chiarcos/.github/blob/main/profile/README.md ablesen!\
 Passiert 1x pro Tag
 !!!
 
 #### Infos
 
 + Dies ist eine Datei die Unsere Organisation beschreibt
+
++ Dateienname: **README**.md
