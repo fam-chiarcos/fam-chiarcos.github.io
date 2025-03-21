@@ -14,5 +14,5 @@ action: true
 [Viktor **Chiarcos**](https://viktor-chiarcos.github.io)\
 [Olga **Chiarcos**](https://viktor-chiarcos.github.io)
 ## Sonstiges
-[Neu laden (**Startseite**)
+[Neu laden](**Startseite**)\
 [Storygram](/Storygram)
