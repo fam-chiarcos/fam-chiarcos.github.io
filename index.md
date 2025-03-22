@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 
-title: "Die Chiarcos Webseite Webseite"
+title: "Die Chiarcos Webseite"
 excerpt: "Familie Chiarcos"
 action: true
 #action_btn:
