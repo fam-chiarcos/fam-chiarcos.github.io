@@ -21,7 +21,7 @@ action: true
 ## Badenwürtembergische Meisterschaften
 *Kategorie: Eiskunstlaufen*\
 Viktor hatte an dem 1.3.2035 einen Wettberwerb!\
-![](IMG_4588.JPEG)\
+![](/IMG_0001.JPG)\
 In seiner Kategorie war nur ein Kind.\
 Er hatte am Ende den 2. Platz!
 # Andre/Viktor ***Chiarcos***
