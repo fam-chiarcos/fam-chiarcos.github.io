@@ -25,7 +25,6 @@ Viktor hatte an dem 1.3.2035 einen Wettberwerb!\
 In seiner Kategorie war nur ein Kind.\
 Er hatte am Ende den 2. Platz!
 # Andre/Viktor ***Chiarcos***
-## Nächster Wettbewerb
+## Vereinsmeisterschaft MERC
 *Kategorie: Eiskunstlaufen*\
-**VM Eiskunstlauf**\
-Am: 22.12.2025
+**FINDET HEUTE STATT**
