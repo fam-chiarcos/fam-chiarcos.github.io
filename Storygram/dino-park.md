@@ -13,6 +13,7 @@ action: true
 - Datum: 23.3.2025
 
 # Unser Dinopark
+![](/Storygram/IMG_0001.JPG)
 
 **Authoren: Andre+Viktor Chiarcos**
 
