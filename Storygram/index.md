@@ -29,3 +29,12 @@ Passiert 1x pro Tag
 + Dies ist eine Datei die Unsere Organisation beschreibt
 
 + Dateienname: **README**.md
+
+
+# Über Unseren Dinopark
+- Uhrzeit: 11:08
+- Datum: 23.3.2025\
+**Authoren: Andre+Viktor Chiarcos**
+
+## Beschreibung
+Mehr infos auf [viktor-chiarcos.github.io/dino-park](viktor-chiarcos.github.io/dino-park)
