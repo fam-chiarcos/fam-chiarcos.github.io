@@ -17,14 +17,5 @@ action: true
 [Neu laden (**Startseite**)]()\
 [Storygram](/Storygram)
 
-# Viktor ***Chiarcos***
-## Badenwürtembergische Meisterschaften
-*Kategorie: Eiskunstlaufen*\
-Viktor hatte an dem 1.3.2035 einen Wettberwerb!\
-![](/IMG_0001.JPG)\
-In seiner Kategorie war nur ein Kind.\
-Er hatte am Ende den 2. Platz!
-# Andre/Viktor ***Chiarcos***
-## Vereinsmeisterschaft MERC
-*Kategorie: Eiskunstlaufen*\
-**FINDET HEUTE STATT**
+# Mannheimer ERC
+[Belegungsplan KW 13](/PDF0002.PDF)
