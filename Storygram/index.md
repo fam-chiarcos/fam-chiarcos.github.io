@@ -31,10 +31,10 @@ Passiert 1x pro Tag
 + Dateienname: **README**.md
 
 
-# Über Unseren Dinopark
+# [Über Unseren Dinopark](/Storygram/storys/2025-3-23/dino-park/)
 - Uhrzeit: 11:08
 - Datum: 23.3.2025\
 **Authoren: Andre+Viktor Chiarcos**
 
 ## Beschreibung
-Mehr infos auf [viktor-chiarcos.github.io/dino-park](viktor-chiarcos.github.io/dino-park)
+Mehr infos auf [viktor-chiarcos.github.io/dino-park](https://viktor-chiarcos.github.io/dino-park)
