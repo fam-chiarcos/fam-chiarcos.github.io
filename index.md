@@ -18,4 +18,4 @@ action: true
 [Storygram](/Storygram)
 
 # Mannheimer ERC
-[Belegungsplan KW 13](/PDF0002.PDF)
+[Belegungsplan KW 13](/PDF_0002.PDF)
