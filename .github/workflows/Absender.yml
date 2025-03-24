@@ -23,7 +23,7 @@ concurrency:
 
 jobs:
   # Build job
-  build:
+  bauen:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -39,7 +39,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
 
   # Deployment job
-  deploy:
+  anwenden:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
