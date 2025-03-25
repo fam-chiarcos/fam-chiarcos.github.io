@@ -14,8 +14,9 @@ action: true
 [Viktor **Chiarcos**](https://viktor-chiarcos.github.io)\
 [Olga **Chiarcos**](https://viktor-chiarcos.github.io)
 ## Sonstiges
-[Neu laden (**Startseite**)]()\
+[Startseite)](/)\
 [Storygram](/Storygram)
+[App Store](/app-store/)
 
 # Mannheimer ERC
 [Belegungsplan KW 13](/PDF_0002.PDF)
