@@ -19,4 +19,5 @@ action: true
 [App Store](/app-store/)
 
 # Youtube
+[Laden und Öffnen (0 B/evtl. 0 Sekunden)](/apps/youtube)
 [Webseite besuchen](https://youtube.com)
