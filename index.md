@@ -8,7 +8,6 @@ action: true
 #action_btn:
 
 ---
-
 # Menü
 ## Mitglieder
 [Viktor **Chiarcos**](https://viktor-chiarcos.github.io)\
