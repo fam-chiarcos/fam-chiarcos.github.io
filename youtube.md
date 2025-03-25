@@ -8,6 +8,9 @@ action: true
 #action_btn:
 
 ---
+<script>
+  alert("YouTube erfolgreich installiert. Die Installation hat 0 Bytes gespeichert.")
+</script>
 
 # Empfohlen
 ## Wise Guys - Das Sägewek Bad Segeberg
