@@ -8,14 +8,14 @@ action: true
 #action_btn:
 
 ---
-
 # Menü
 ## Mitglieder
 [Viktor **Chiarcos**](https://viktor-chiarcos.github.io)\
 [Olga **Chiarcos**](https://viktor-chiarcos.github.io)
 ## Sonstiges
 [Startseite](/)\
-[Neu laden (**Storygram**)]()
+[Storygram](/Storygram)\
+[App Store](/app-store/)
 
 # [Über Unsere Organisation](https://github.com/fam-chiarcos/.github/blob/main/profile/README.md)
 ## Dies ist ein Link auf [github.com](https://github.com)
