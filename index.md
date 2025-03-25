@@ -15,7 +15,7 @@ action: true
 [Olga **Chiarcos**](https://viktor-chiarcos.github.io)
 ## Sonstiges
 [Startseite)](/)\
-[Storygram](/Storygram)
+[Storygram](/Storygram)\
 [App Store](/app-store/)
 
 # Mannheimer ERC
