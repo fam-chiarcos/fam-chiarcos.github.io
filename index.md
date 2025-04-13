@@ -17,5 +17,28 @@ action: true
 [Storygram](/Storygram)\
 [App Store](/app-store/)
 
-# Mannheimer ERC
-[Belegungsplan KW 13](/PDF_0002.PDF)
+# Viktor/Andre Chiarcos
+## Eiskunstlauf Saisson erfolgreich beendet
+André hat mit der **Vereinsmeisterschaft 2024/25** die Saisson 2024/25 beendet.
+
+|Platz in Gruppe|Person|
+|---------------|------|
+|1. - Kufenflitzer C||
+|2. - Kufenflitzer C||
+|3. - Kufenflitzer C|**Andre** Chiarcos|
+|4. - Kufenflitzer C||
+
+Viktor hat mit der **Kürklassenprüfung** die Saisson 2024/25 beendet.
+
+|erster Läufer|bestanden|
+|-------------|---------|
+|**Viktor** Chiarcos | **Ja** |
+
+Die zwei sind Helden!
+
+# Viktor/Andre/Christian/Olga Chiarcos
+## Ostern geht los
+
+- Wir freuen uns auf **Ostern** und fangen deshalb am **14.04.2025**
+- Am **13.04.2025** haben wir die Ostereier gefärbt
+- Am **13.04.2025** und am **14.04.2025** haben wir uns den **Plan** überlegt
