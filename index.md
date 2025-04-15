@@ -48,3 +48,5 @@ Die zwei sind Helden!
 - Wir freuen uns auf **Ostern** und fangen deshalb am **14.04.2025**
 - Am **13.04.2025** haben wir die Ostereier gefärbt
 - Am **13.04.2025** und am **14.04.2025** haben wir uns den **Plan** überlegt
+
+Alle hatten Spaß in dieser Saisson
