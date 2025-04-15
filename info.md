@@ -11,6 +11,7 @@ action: true
 Dies ist eine GitHub page.
 
 # Informationen
+
 |Absendung/Workflow|Unterstützer*inen|Organisation|Modus|
 |------------------|-----------------|------------|------|
 |pages build and deployment|GitHub|GitHub|Deaktiviert|
