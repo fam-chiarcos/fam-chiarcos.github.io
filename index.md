@@ -21,7 +21,8 @@ action: true
 ## Sonstiges
 [Startseite](/)\
 [Storygram](/Storygram)\
-[App Store](/app-store/)
+[App Store](/app-store/)\
+[Info](/about)
 
 # Viktor/Andre Chiarcos
 ## Eiskunstlauf Saisson erfolgreich beendet
