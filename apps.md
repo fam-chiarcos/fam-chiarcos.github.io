@@ -16,7 +16,8 @@ action: true
 ## Sonstiges
 [Startseite](/)\
 [Storygram](/Storygram)\
-[App Store](/app-store/)
+[App Store](/app-store/)\
+[Info](/about)
 
 # Youtube
 [Laden und Öffnen (0 B/evtl. 0 Sekunden)](/apps/youtube)\
