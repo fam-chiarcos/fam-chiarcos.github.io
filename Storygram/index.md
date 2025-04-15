@@ -15,7 +15,8 @@ action: true
 ## Sonstiges
 [Startseite](/)\
 [Storygram](/Storygram)\
-[App Store](/app-store/)
+[App Store](/app-store/)\
+[Info](/about)
 
 # [Über Unsere Organisation](https://github.com/fam-chiarcos/.github/blob/main/profile/README.md)
 ## Dies ist ein Link auf [github.com](https://github.com)
