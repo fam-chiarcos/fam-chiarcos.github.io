@@ -10,23 +10,40 @@ action: true
 ---
 # Menü
 ## Mitglieder
-[Viktor **Chiarcos:**](https://viktor-chiarcos.github.io)
-<iframe src="https://viktor-chiarcos.github.io" width="900" height="400" name="" title="Viktor Chiarcos">
-</iframe><br>
+[Viktor **Chiarcos**](https://viktor-chiarcos.github.io)
 
-[Olga **Chiarcos:**](https://viktor-chiarcos.github.io)
-<iframe src="https://chia01.github.io" width="900" height="400" name="" title="Olga Chiarcos">
-</iframe><br>
+
+[Olga **Chiarcos**](https://viktor-chiarcos.github.io)
 
 ## Sonstiges
 [Startseite](/)\
 [Storygram](/Storygram)\
 [App Store](/app-store/)\
-[Info](/about)\
-[Eiskunstlauf](#figureskating)\
-[Ostern](#ostern)
+[Info](/about)
 
-<a id="#figureskating"/>
+# Christian Chiarcos
+## Alles gute zum Geburtstag
+
+Lieber Christian,\
+wir wünschen dir alles gute zum Geburtstag.
+
+Wir hoffen das dir die Feier gefalen hat.
+
+
+### Ablauf
+
+#### Die magische Zahlen
+
+|Zahl|Sache|
+|----|-----|
+|1.|Kasti (Der Kastenkopf)|
+|2.|Götterspeise|
+|3.|Studentenfutter (Für seine Lehre)|
+
+#### Downoad and Watching
+
+[Open on Keynote](https://www.icloud.com/keynote/0467PFvbhFhVQQ8Bzn3jDcxEg#Geburtstag_von_Christian)
+
 # Viktor/Andre Chiarcos
 ## Eiskunstlauf Saisson erfolgreich beendet
 André hat mit der **Vereinsmeisterschaft 2024/25** die Saisson 2024/25 beendet.
@@ -44,7 +61,6 @@ Viktor hat mit der **Kürklassenprüfung** die Saisson 2024/25 beendet.
 |-------------|---------|
 |**Viktor** Chiarcos | **Ja** |
 
-<a id="#ostern"/>
 
 # Viktor/Andre/Christian/Olga Chiarcos
 ## Ostern geht los
