@@ -26,7 +26,7 @@ action: true
 [Eiskunstlauf](#figureskating)\
 [Ostern](#ostern)
 
-<id="#figureskating">
+<a id="#figureskating"/>
 # Viktor/Andre Chiarcos
 ## Eiskunstlauf Saisson erfolgreich beendet
 André hat mit der **Vereinsmeisterschaft 2024/25** die Saisson 2024/25 beendet.
@@ -44,7 +44,7 @@ Viktor hat mit der **Kürklassenprüfung** die Saisson 2024/25 beendet.
 |-------------|---------|
 |**Viktor** Chiarcos | **Ja** |
 
-<id="#ostern">
+<a id="#ostern"/>
 
 # Viktor/Andre/Christian/Olga Chiarcos
 ## Ostern geht los
