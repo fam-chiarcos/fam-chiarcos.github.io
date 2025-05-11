@@ -22,8 +22,11 @@ action: true
 [Startseite](/)\
 [Storygram](/Storygram)\
 [App Store](/app-store/)\
-[Info](/about)
+[Info](/about)\
+[Eiskunstlauf](#figureskating)\
+[Ostern](#ostern)
 
+<id="#figureskating">
 # Viktor/Andre Chiarcos
 ## Eiskunstlauf Saisson erfolgreich beendet
 André hat mit der **Vereinsmeisterschaft 2024/25** die Saisson 2024/25 beendet.
@@ -41,7 +44,7 @@ Viktor hat mit der **Kürklassenprüfung** die Saisson 2024/25 beendet.
 |-------------|---------|
 |**Viktor** Chiarcos | **Ja** |
 
-Die zwei sind Helden!
+<id="#ostern">
 
 # Viktor/Andre/Christian/Olga Chiarcos
 ## Ostern geht los
