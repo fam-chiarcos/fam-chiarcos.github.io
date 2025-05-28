@@ -4,7 +4,7 @@ title: "Deutschkurs"
 permalink: /kurs/de-ru/
 ---
 
-<details>(8) Antwort: Ja, Herzlich Willkommen</details><br>
+<details><title>(8)(8) </title>Antwort: Ja, Herzlich Willkommen</details><br>
 <details>(9) Lösung: Ich kaufe ein</details><br>
 <details>(11) Ich kaufe ein</details>
 
