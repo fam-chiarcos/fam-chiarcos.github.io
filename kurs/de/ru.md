@@ -4,17 +4,10 @@ title: "Deutschkurs"
 permalink: /kurs/de-ru/
 ---
 
-<script>
-	function button1() {
-    	alert("Antwort: Ja, Herzlich Willkommen")
-    }
-    
-    function button2() {
-        alert("Lösung: Nein, nach vorne")
-    }
-    function button3() {
-        alert('Lösung: Ich kaufe ein')
-</script>
+<details>Antwort: Ja, Herzlich Willkommen</details><br>
+<details>Lösung: Ich kaufe ein</details><br>
+<details>Ich kaufe ein</details>
+
 
 # календарь
 <iframe src="https://calendar.google.com/calendar/embed?src=42ab02c85685eddc4af6e18c9a5bbf1bb6a0b0701e8e5b0f27e52c893c978cc3%40group.calendar.google.com&ctz=Europe%2FMoscow" style="border: 0" width="500" height="400" frameborder="0" scrolling="no"></iframe>
@@ -208,7 +201,7 @@ Antwort: <input type="text" id="Feld" value="" />
 
 b) скрой ответ и проконтролируй
 
-<input type="button" value="Antwort" onclick="button1();"/> 
+ответ верху под Details
 
 # (9) что означает "нет, вперёд"?
 
@@ -216,9 +209,9 @@ a) подумай и напиши ответ
 
 Lösung: <input type="text" id="Feld" value=""/>
 
-b) скрой ответ и Проконтролируй
+b) 
 
-<input type="button" value="Lösung" onclick="button2();"/> 
+ответ верху под Details
 
 # (10) Verben (что я делаю)
 a)
@@ -236,4 +229,4 @@ Lösung: <input type="text" id="Feld" value=""/>
 
 b)
 
-<input type="button" value="Lösung" onclick="button3();"/> 
+ответ верху под Details
