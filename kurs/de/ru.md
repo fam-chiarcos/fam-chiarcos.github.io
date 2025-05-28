@@ -15,7 +15,7 @@ permalink: /kurs/de-ru/
 </script>
 
 # календарь
-<iframe src="https://calendar.google.com/calendar/embed?src=42ab02c85685eddc4af6e18c9a5bbf1bb6a0b0701e8e5b0f27e52c893c978cc3%40group.calendar.google.com&ctz=Europe%2FMoscow" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=42ab02c85685eddc4af6e18c9a5bbf1bb6a0b0701e8e5b0f27e52c893c978cc3%40group.calendar.google.com&ctz=Europe%2FMoscow" style="border: 0" width="500" height="400" frameborder="0" scrolling="no"></iframe>
 
 
 
@@ -25,7 +25,7 @@ permalink: /kurs/de-ru/
 # смотри видео и учись говорить | через YouTube
 a) **26.04.2025**
 
-<iframe width="200" height="315" src="https://www.youtube.com/embed/BQC7OH9fBmQ" title="Video 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="400" height="315" src="https://www.youtube.com/embed/BQC7OH9fBmQ" title="Video 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 # (2) Учи цифры
 a)
