@@ -25,7 +25,7 @@ permalink: /kurs/de-ru/
 # смотри видео и учись говорить | через YouTube
 a) **26.04.2025**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BQC7OH9fBmQ" title="Video 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="200" height="315" src="https://www.youtube.com/embed/BQC7OH9fBmQ" title="Video 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 # (2) Учи цифры
 a)
