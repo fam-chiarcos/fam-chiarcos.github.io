@@ -12,6 +12,8 @@ permalink: /kurs/de-ru/
     function button2() {
         alert("Lösung: Nein, nach vorne")
     }
+    function button3() {
+        alert('Lösung: Ich kaufe ein')
 </script>
 
 # календарь
@@ -226,3 +228,12 @@ a)
 𝙴𝚗𝚝𝚜𝚙𝚊𝚗𝚗𝚞𝚗𝚐 (отдых) - 𝚎𝚗𝚝𝚜𝚙𝚊𝚗𝚗𝚎𝚗 (отдыхать)\
 𝚂𝚙𝚒𝚎𝚕 (игра) - 𝚜𝚙𝚒𝚎𝚕𝚎𝚗 (играть)\
 Einkauf (покупка) - einkaufen (покупать)
+
+# (11) Was bedeutet я покупаю 
+a)
+
+Lösung: <input type="text" id="Feld" value=""/>
+
+b)
+
+<input type="button" value="Lösung" onclick="button3();"/> 
