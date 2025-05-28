@@ -4,9 +4,9 @@ title: "Deutschkurs"
 permalink: /kurs/de-ru/
 ---
 
-<details>Antwort: Ja, Herzlich Willkommen</details><br>
-<details>Lösung: Ich kaufe ein</details><br>
-<details>Ich kaufe ein</details>
+<details>(8) Antwort: Ja, Herzlich Willkommen</details><br>
+<details>(9) Lösung: Ich kaufe ein</details><br>
+<details>(11) Ich kaufe ein</details>
 
 
 # календарь
