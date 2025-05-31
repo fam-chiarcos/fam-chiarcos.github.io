@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Deutschkurs"
+excerpt: "Site from fam-Chiarcos (Owner: Viktor Chiarcos)"
 permalink: /kurs/de-ru/
 ---
 <!--
