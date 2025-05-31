@@ -3,7 +3,7 @@ layout: home
 title: "Deutschkurs"
 permalink: /kurs/de-ru/
 ---
-
+<!--
 <details>Antwort: Ja, Herzlich Willkommen</details><br>
 <details>(9) Lösung: Ich kaufe ein</details><br>
 <details>(11) Ich kaufe ein</details>
@@ -228,5 +228,7 @@ a)
 Lösung: <input type="text" id="Feld" value=""/>
 
 b)
+-->
 
-ответ верху под Details
+Today is Kurs Free Day
+ответ верху под Details--
