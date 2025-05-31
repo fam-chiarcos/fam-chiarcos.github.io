@@ -228,7 +228,9 @@ a)
 Lösung: <input type="text" id="Feld" value=""/>
 
 b)
--->
+
+ответ верху под Details
+---->
 
 Today is Kurs Free Day
-ответ верху под Details--
+
