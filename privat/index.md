@@ -11,7 +11,6 @@ permalink: /privat/
 
     if (Eingabe != Passwort) {
         alert('Passwort ist Falsch!');
-        document.cookie = Eingabe
     } else {
         document.cookie = Eingabe
         location.href = '/privat/open';
@@ -24,7 +23,7 @@ permalink: /privat/
       location.href = '/privat/open/'
     }
     else {
-      alert('Falsches Passwort.')
+      alert('Das Passwort ist nicht gespeichert.')
     }
     
   }
@@ -33,4 +32,5 @@ permalink: /privat/
 # Der Privatbereich
 
 <input type="button" value="Anmelden" onclick="Anmelden()"/><br>
-<input type="button" value="Letzte Anmeldedaten verwenden" onclick="CookieLogIn()"/> Achtung: Nicht alle Geräte unterstützen diese Option
+<input type="button" value="Gespeicherte Anmeldedaten verwenden" onclick="CookieLogIn()"/> Achtung: Nicht alle Geräte unterstützen diese Option<br>
+<input type="button" value="Gespeicherte Anmeldedaten löschen" onclick="document.cookies = ''"/>
