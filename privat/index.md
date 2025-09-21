@@ -11,12 +11,14 @@ permalink: /privat/
 
     if (Eingabe != Passwort) {
         alert('Passwort ist Falsch!');
-    } else {
+    }
+    else {
         document.cookie = Eingabe
         location.href = '/privat/open'
     }
-    
   }
+    
+  
   
   function CookieLogIn () {
     if (document.cookie == Passwort){
