@@ -7,23 +7,23 @@ permalink: /privat/
 <script>
   function Anmelden () {
     let Passwort = 'fam-chiarcos.1234';
-    let Eingabe = window.prompt('Passwort erforderlich');
+    let Eingabe = window.prompt('Geben sie das Passwort für das Benutzerkonto "Famile Chiarcos" ein.');
 
     if (Eingabe != Passwort) {
         alert('Passwort ist Falsch!');
     } else {
         document.cookie = Eingabe
-        location.href = '/privat/open';
+        location.href = '/privat/open'
     }
     
   }
   
   function CookieLogIn () {
-    if (document.cookie == 'fam-chiarcos.1234'){
+    if (document.cookie == Passwort){
       location.href = '/privat/open/'
     }
     else {
-      alert('Das Passwort ist nicht gespeichert.')
+      alert('Sie sind nicht Eingeloggt.\nÜberprüfen sie die Einstellungen von ihrem Browser und achten sie das sie sich nicht im Privaten Modus befinden.')
     }
     
   }
@@ -31,6 +31,6 @@ permalink: /privat/
 
 # Der Privatbereich
 
-<input type="button" value="Anmelden" onclick="Anmelden()"/><br>
-<input type="button" value="Gespeicherte Anmeldedaten verwenden" onclick="CookieLogIn()"/> Achtung: Nicht alle Geräte unterstützen diese Option<br>
-<input type="button" value="Gespeicherte Anmeldedaten löschen" onclick="document.cookies = ''"/>
+<input type="button" value="Einloggen" onclick="Anmelden()"/><br>
+<input type="button" value="Anmelden als Familie Chiarcos" onclick="CookieLogIn()"/> Achtung: Nicht alle Geräte unterstützen diese Option<br>
+<input type="button" value="Abmelden" onclick="document.cookies = ''"/>
