@@ -14,7 +14,7 @@ permalink: /privat/
     }
     else {
       document.cookie = Eingabe
-      location.href = '/privat/open'
+      location.href = '/privat/open':
     }
   }
     
@@ -22,10 +22,10 @@ permalink: /privat/
   
   function CookieLogIn () {
     if (document.cookie == Passwort){
-      location.href = '/privat/open/'
+      location.href = '/privat/open/';
     }
     else {
-      alert('Sie sind nicht Eingeloggt.\nÜberprüfen sie die Einstellungen von ihrem Browser und achten sie das sie sich nicht im Privaten Modus befinden.')
+      alert('Sie sind nicht Eingeloggt.\nÜberprüfen sie die Einstellungen von ihrem Browser und achten sie das sie sich nicht im Privaten Modus befinden.');
     }
     
   }
