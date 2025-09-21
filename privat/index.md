@@ -21,7 +21,10 @@ permalink: /privat/
   
   
   function CookieLogIn () {
-    if (document.cookie == 'fam-chiarcos.1234'){
+    if (document.cookie == 'logout') {
+      alert('Sie sind nicht Eingeloggt');
+    }
+    else if (document.cookie == 'fam-chiarcos.1234'){
       location.href = '/privat/open/';
     }
     else {
@@ -35,4 +38,4 @@ permalink: /privat/
 
 <input type="button" value="Einloggen" onclick="Anmelden()"/><br>
 <input type="button" value="Anmelden als Familie Chiarcos" onclick="CookieLogIn()"/> Achtung: Nicht alle Geräte unterstützen diese Option<br>
-<input type="button" value="Abmelden" onclick="document.cookies = ''; alert('Familie Chiarcos ist abgemeldet.')"/>
+<input type="button" value="Abmelden" onclick="document.cookies = 'logout'; alert('Familie Chiarcos ist abgemeldet.')"/>
