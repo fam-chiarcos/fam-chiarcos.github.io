@@ -11,7 +11,12 @@ permalink: /privat/
       location.href = '/privat/open/'
     }
     else {
-      alert('Falsches Passwort.')
+      False ()
+    }
+    
+  }
+
+  function False ():
     
       let Eingabe = window.prompt('Passwort erforderlich');
       
@@ -23,10 +28,6 @@ permalink: /privat/
           document.cookie = Eingabe
           location.href = '/privat/open';
       }
-    }
-    
-  }
-  
 
 
     
