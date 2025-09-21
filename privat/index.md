@@ -14,7 +14,7 @@ permalink: /privat/
     }
     else {
       document.cookie = Eingabe
-      location.href = '/privat/open':
+      location.href = '/privat/open';
     }
   }
     
