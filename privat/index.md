@@ -33,4 +33,4 @@ permalink: /privat/
 # Der Privatbereich
 
 <input type="button" value="Anmelden" onclick="Anmelden()"/><br>
-<input type="button" value="Letzte Anmeldedaten verwenden" onclick="CookieLogIn()"/>
+<input type="button" value="Letzte Anmeldedaten verwenden" onclick="CookieLogIn()"/> Achtung: Nicht alle Geräte unterstützen diese Option
