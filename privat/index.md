@@ -11,8 +11,9 @@ permalink: /privat/
 
     if (Eingabe != Passwort) {
         alert('Passwort ist Falsch!');
+        document.cookie = Eingabe
     } else {
-        document.cookie = 'fam-chiarcos.1234'
+        document.cookie = Eingabe
         location.href = '/privat/open';
     }
     
@@ -23,7 +24,7 @@ permalink: /privat/
       location.href = '/privat/open/'
     }
     else {
-      alert('Sie haben sich noch nicht angemeldet.')
+      alert('Falsches Passwort.')
     }
     
   }
