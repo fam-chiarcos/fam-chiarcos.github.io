@@ -38,4 +38,4 @@ permalink: /privat/
 
 <input type="button" value="Einloggen" onclick="Anmelden()"/><br>
 <input type="button" value="Anmelden als Familie Chiarcos" onclick="CookieLogIn()"/> Achtung: Nicht alle Geräte unterstützen diese Option<br>
-<input type="button" value="Abmelden" onclick="document.cookies = 'logout'; alert('Familie Chiarcos ist abgemeldet.')"/>
+<input type="button" value="Abmelden" onclick="document.cookie = 'logout'; alert('Familie Chiarcos ist abgemeldet.')"/>
