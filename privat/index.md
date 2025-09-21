@@ -17,12 +17,14 @@ permalink: /privat/
     }
     
   }
+  
   function CookieLogIn () {
     if (document.cookie == 'fam-chiarcos.1234'){
       location.href = '/privat/open/'
     }
     else {
       alert('Sie haben sich noch nicht angemeldet.')
+    }
     
   }
 </script>
