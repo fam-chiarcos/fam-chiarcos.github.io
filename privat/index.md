@@ -21,8 +21,8 @@ permalink: /privat/
   
   
   function CookieLogIn () {
-    if (document.cookie == Passwort){
-      location.href = '/privat/open/' 
+    if (document.cookie == 'fam-chiarcos.1234'){
+      location.href = '/privat/open/';
     }
     else {
       alert('Sie sind nicht Eingeloggt');
