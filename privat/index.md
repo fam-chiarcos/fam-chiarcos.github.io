@@ -10,11 +10,11 @@ permalink: /privat/
     let Eingabe = window.prompt('Geben sie das Passwort für das Benutzerkonto "Famile Chiarcos" ein.');
 
     if (Eingabe != Passwort) {
-        alert('Passwort ist Falsch!');
+      alert('Passwort ist Falsch!');
     }
     else {
-        document.cookie = Eingabe
-        location.href = '/privat/open'
+      document.cookie = Eingabe
+      location.href = '/privat/open'
     }
   }
     
