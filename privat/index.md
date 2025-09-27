@@ -14,7 +14,7 @@ permalink: /privat/
     }
     else {
       document.cookie = Eingabe
-      location.href = '/privat/open';
+      fensterOeffnen();
     }
   }
     
@@ -25,13 +25,19 @@ permalink: /privat/
       alert('Sie sind nicht Eingeloggt');
     }
     else if (document.cookie == 'fam-chiarcos.1234'){
-      location.href = '/privat/open/';
+      fensterOeffnen();
     }
     else {
       alert('Sie sind nicht Eingeloggt');
     }
     
   }
+function fensterOeffnen () { 
+  var MeinFenster = window.open("about:blank", "Zweitfenster", "width=300,height=400,left=100,top=200"); 
+  MeinFenster.location.href="/privat/open" 
+  MeinFenster.focus(); 
+}
+
 </script>
 
 # Der Privatbereich
