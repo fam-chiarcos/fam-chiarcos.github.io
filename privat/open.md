@@ -7,6 +7,6 @@ permalink: /privat/open/
 
 # Der Privatbereich
 <input type="button" value="Zur Startseite" onclick="location.href = '/'"/>
-<input type="button" value="Abmelden" onclick="location.href = '..'"/>
+<input type="button" value="Abmelden" onclick="MeinFenster.close()">Fenster zumachen</a>"/>
 
 Noch nichts geschrieben
